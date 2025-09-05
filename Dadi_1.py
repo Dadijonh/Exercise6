@@ -1,1 +1,2 @@
 print("hæ")
+print("hæ")
